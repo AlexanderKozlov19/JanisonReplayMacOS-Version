@@ -1,0 +1,485 @@
+Level: Info
+Message: JQMIGRATE: Migrate is installed, version 1.4.1
+Source: https://galactic.ink/journal/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+Line: 2
+-----------------------
+Level: Error
+Message: Typekit: the domain "galactic.ink" isn't in the list of published domains for kit "qny2ozf".
+Source: https://use.typekit.net/qny2ozf.js
+Line: 37
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 36.23681640625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 375.515869140625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 34.923828125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.5830078125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 44.806884765625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 384.680908203125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 27.72021484375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.6298828125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 16.606689453125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 118.427978515625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 28.626953125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.743896484375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 15.4580078125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 146.635986328125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 15.829833984375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.529052734375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 16.4990234375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 92.7109375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 16.428955078125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.77099609375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 15.716064453125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 207.088134765625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 14.443359375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.344970703125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 77.38916015625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 567.955810546875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 53.061767578125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.30517578125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 46.60791015625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 343.83203125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 21.26904296875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.259765625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 69.926025390625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 579.6689453125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 57.242919921875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 1.473876953125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 50.713134765625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 492.512939453125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 29.074951171875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 2.60888671875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 26.95703125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 300.0380859375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 79.072998046875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 2.3818359375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 58.59716796875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 487.947021484375ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 73.328857421875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 2.72900390625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 104.125ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 437.029296875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Empty response arrived for script 'chrome-devtools://devtools/screencast/screencast_module.js'
+Source: chrome-devtools://devtools/shell.js
+Line: 22
+-----------------------
+Level: Error
+Message: Error: Could not instantiate: Screencast.ScreencastAppProvider
+Source: chrome-devtools://devtools/shell.js
+Line: 7859
+-----------------------
+Level: Debug
+Message: Main._showAppUI: 138.93603515625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._createAppUI: 614.446044921875ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Error
+Message: Uncaught (in promise) TypeError: Cannot read property 'ToolbarButtonProvider' of undefined
+Source: chrome-devtools://devtools/inspector.html
+Line: 1
+-----------------------
+Level: Debug
+Message: Main._initializeTarget: 21.93994140625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
+Level: Debug
+Message: Main._lateInitialization: 2.470947265625ms
+Source: chrome-devtools://devtools/shell.js
+Line: 7847
+-----------------------
